@@ -23,9 +23,7 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 [LINK]: https://youtu.be/Ez8F0nW6S-w?si=RjQyniMk2NUskgIx
 2) Revised and completed BASIC SORTINGS from striver sheet i.e
 (Bubble sort , Selection sort , Insertion sort)
-[Selection sort]:https://takeuforward.org/plus/dsa/problems/selection-sort?source=strivers-a2z-dsa-track
-[Bubble sort]: https://takeuforward.org/plus/dsa/problems/bubble-sort?source=strivers-a2z-dsa-track
-[Insertion sort]: https://takeuforward.org/plus/dsa/problems/insertion-sorting?source=strivers-a2z-dsa-track
+Done the prbs from striver sheet and learnt the concept behind it.
 3) Practiced few problems in codechef:
 [PRB 1]:https://www.codechef.com/practice/course/sorting/SORTING/problems/TSORT
 [Solution-1]:https://www.codechef.com/viewsolution/1276347940
@@ -37,3 +35,29 @@ IN prb-1 , i am sure about my code but its showing TLE , so when i took a bit he
 [PRB 4]:https://www.codechef.com/practice/course/sorting/SORTING/problems/WATESTCASES
 [Solution-4]:https://www.codechef.com/viewsolution/1276367044
 In prb-4 , i was a having a logic but i dont think code is working out correctly.i will try again.
+
+
+# DAY-2 : 13th MAY
+1) learned basic recursion from striver :
+[vedio link]: https://www.youtube.com/watch?v=yVdKa8dnKiE&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9
+2) Solved the following problems from striver A-Z sheet by basic recursion:
+ a) Printing smtg N times
+ b) Print linearly from 1 to N
+ c) Print from N to 1
+ d) Print from 1 to N (using backtracking)
+ e) Print from N to 1 (using backtracking)
+ f) Sum of N numbers
+ g) Factorial
+ h) reverse an array
+ i) String is palidrome or not 
+ [ques]:https://leetcode.com/problems/valid-palindrome/
+ [sol]:(Tried a lot but the error is occuring.i will try again.)
+ j) Fabonacci number
+ [ques]:https://leetcode.com/problems/fibonacci-number/submissions/2002396179/
+ [sol]:https://leetcode.com/submissions/detail/2002396179/
+
+ The remaining questions are from striver sheet.so couldnt attach the solution link,but i have done the questions and learned the concept behind them.
+ 3) Attempted codechef contest - (Able to solve 3 questions)
+ [sol-1]:https://www.codechef.com/viewsolution/1276790198
+ [sol-2]:https://www.codechef.com/viewsolution/1276799472
+ [sol-3]:https://www.codechef.com/viewsolution/1276877426
