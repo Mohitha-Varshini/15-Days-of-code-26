@@ -61,3 +61,18 @@ In prb-4 , i was a having a logic but i dont think code is working out correctly
  [sol-1]:https://www.codechef.com/viewsolution/1276790198
  [sol-2]:https://www.codechef.com/viewsolution/1276799472
  [sol-3]:https://www.codechef.com/viewsolution/1276877426
+
+
+# DAY-3 : 14th MAY
+1) Learned merge sort and quick sort
+[qs-link]:https://www.youtube.com/watch?v=WIrA4YexLRQ
+[ms-link]:https://www.youtube.com/watch?v=ogjf7ORKfd8
+2) solving sorting problems in codechef
+[PRB-1 QUES]:https://www.codechef.com/practice/course/sorting/SORTING/problems/WATESTCASES
+[PRB-1 SOLN]:https://www.codechef.com/viewsolution/1277438707
+The prb-1 was done by me on 12th may but today i got it.
+[PRB-2 QUES]:https://www.codechef.com/practice/course/sorting/SORTING/problems/DSCPPAS266
+[PRB-2 SOLN]:https://www.codechef.com/viewsolution/1277461103
+[PRB-3 QUES]:https://www.codechef.com/practice/course/sorting/SORTING/problems/SIMPSTAT
+[PRB-3 SOLN]:https://www.codechef.com/viewsolution/1277480608
+Tried this prb-3,i think logic is correct but few test cases are failing.I will try again.
