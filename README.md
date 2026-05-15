@@ -78,7 +78,7 @@ The prb-1 was done by me on 12th may but today i got it.
 Tried this prb-3,i think logic is correct but few test cases are failing.I will try again.
 
 
-# DAY-4 : 15th MAY
+# DAY-4: 15th MAY
 1) Solved problems from striver sheet based on topic arrays.
 a)largest number
 b)second largest number(learned brutal force,better and optimal methods from striver)
