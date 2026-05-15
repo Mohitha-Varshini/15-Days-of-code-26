@@ -76,3 +76,15 @@ The prb-1 was done by me on 12th may but today i got it.
 [PRB-3 QUES]:https://www.codechef.com/practice/course/sorting/SORTING/problems/SIMPSTAT
 [PRB-3 SOLN]:https://www.codechef.com/viewsolution/1277480608
 Tried this prb-3,i think logic is correct but few test cases are failing.I will try again.
+
+
+# DAY-4 : 15th MAY
+1) Solved problems from striver sheet based on topic arrays.
+a)largest number
+b)second largest number(learned brutal force,better and optimal methods from striver)
+c)second smallest number
+d)check array is sorted or not
+e)remove duplicates [ques] : https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2004077728/
+[soln]:https://leetcode.com/submissions/detail/2004077728/
+f)rotation of array by k moves(Tried but it is showing runtime error) [ques]:https://leetcode.com/problems/rotate-array/
+Other problems links were not in leetcode,done in VS-CODE.
