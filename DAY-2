@@ -1,0 +1,24 @@
+# DAY-2 : 13th MAY
+1) learned basic recursion from striver :
+[vedio link]: https://www.youtube.com/watch?v=yVdKa8dnKiE&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9
+2) Solved the following problems from striver A-Z sheet by basic recursion:
+ a) Printing smtg N times
+ b) Print linearly from 1 to N
+ c) Print from N to 1
+ d) Print from 1 to N (using backtracking)
+ e) Print from N to 1 (using backtracking)
+ f) Sum of N numbers
+ g) Factorial
+ h) reverse an array
+ i) String is palidrome or not 
+ [ques]:https://leetcode.com/problems/valid-palindrome/
+ [sol]:(Tried a lot but the error is occuring.i will try again.)
+ j) Fabonacci number
+ [ques]:https://leetcode.com/problems/fibonacci-number/submissions/2002396179/
+ [sol]:https://leetcode.com/submissions/detail/2002396179/
+
+ The remaining questions are from striver sheet.so couldnt attach the solution link,but i have done the questions and learned the concept behind them.
+ 3) Attempted codechef contest - (Able to solve 3 questions)
+ [sol-1]:https://www.codechef.com/viewsolution/1276790198
+ [sol-2]:https://www.codechef.com/viewsolution/1276799472
+ [sol-3]:https://www.codechef.com/viewsolution/1276877426
