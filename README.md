@@ -90,7 +90,7 @@ f)rotation of array by k moves(Tried but it is showing runtime error) [ques]:htt
 Other problems links were not in leetcode,done in VS-CODE.
 
 
-# DAY-5 : 16th MAY
+# DAY-5: 16th MAY
 1) Solved problems from striver sheet based on topic arrays.
 a)Check array is sorted and rotated
 [prb]:(https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
