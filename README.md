@@ -88,3 +88,33 @@ e)remove duplicates [ques] : https://leetcode.com/problems/remove-duplicates-fro
 [soln]:https://leetcode.com/submissions/detail/2004077728/
 f)rotation of array by k moves(Tried but it is showing runtime error) [ques]:https://leetcode.com/problems/rotate-array/
 Other problems links were not in leetcode,done in VS-CODE.
+
+
+# DAY-5 : 16th MAY
+1) Solved problems from striver sheet based on topic arrays.
+a)Check array is sorted and rotated
+[prb]:(https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
+[sol]:https://leetcode.com/submissions/detail/2004738112/
+
+b)rotate by one place
+![alt text](<Screenshot 2026-05-16 163918-1.png>)
+
+c)rotate by k places
+[prb]:https://leetcode.com/problems/rotate-array/description/
+[soln]:https://leetcode.com/submissions/detail/2004554130/
+
+d)missing number
+![alt text](<Screenshot 2026-05-16 232517.png>)
+
+e)move zeroes to end
+[prb]:https://leetcode.com/problems/move-zeroes/description/
+[soln]:https://leetcode.com/submissions/detail/2004791923/
+
+f)linear search
+![alt text](<Screenshot 2026-05-16 231755.png>)
+
+g)tried max consecutive 1's (but failed test cases)
+[prb]:https://leetcode.com/problems/max-consecutive-ones/submissions/2004906560/
+
+h)union of 2 sorted arrays(learned from striver)
+[link]:https://www.youtube.com/watch?v=wvcQg43_V8U&t=2584s
