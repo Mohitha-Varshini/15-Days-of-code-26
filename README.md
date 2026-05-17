@@ -118,3 +118,9 @@ g)tried max consecutive 1's (but failed test cases)
 
 h)union of 2 sorted arrays(learned from striver)
 [link]:https://www.youtube.com/watch?v=wvcQg43_V8U&t=2584s
+
+
+# DAY-6 : 17th MAY
+1)Learned STL from striver (revised vectors through vedio and learned the new portion)
+[link]:https://www.youtube.com/watch?v=RRVYpIET_RU
+Sorry sir.Today i couldnt do much because i had an outing with my family.
