@@ -121,6 +121,17 @@ h)union of 2 sorted arrays(learned from striver)
 
 
 # DAY-6 : 17th MAY
-1)Learned STL from striver (revised vectors through vedio and learned the new portion)
-[link]:https://www.youtube.com/watch?v=RRVYpIET_RU
-Sorry sir.Today i couldnt do much because i had an outing with my family.
+## Learned STL from striver (revised vectors through vedio and learned the new portion)
+[STL](https://www.youtube.com/watch?v=RRVYpIET_RU)
+## Sorry sir.Today i couldnt do much because i had an outing with my family.
+
+# DAY-7 : 18th MAY
+## Completed some part of the OOPS concept from Love babbar
+[OOPS-Lecture 42](https://www.youtube.com/watch?v=i_5pvt7ag7E&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=46)
+## Solved array problems in LEETCODE from striver sheet
+[Two Sum](https://leetcode.com/submissions/detail/2006291530/)
+[Sort Colors](https://leetcode.com/submissions/detail/2006308552/)
+[Majority Element](https://leetcode.com/submissions/detail/2006336609/)
+[Maximum Subarray](https://leetcode.com/submissions/detail/2006390775/)
+## Solved and learned max subarray from striver also learned to print subarray which gives max sum.
+[Buy and sell stock](https://leetcode.com/submissions/detail/2006696925/)
