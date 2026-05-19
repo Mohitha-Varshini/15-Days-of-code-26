@@ -133,3 +133,6 @@ h)union of 2 sorted arrays(learned from striver)
 #### [Maximum Subarray](https://leetcode.com/submissions/detail/2006390775/)<br>
 #### Solved and learned max subarray from striver also learned to print subarray which gives max sum.<br>
 #### [Buy and sell stock](https://leetcode.com/submissions/detail/2006696925/)
+
+# DAY-8 : 19th MAY
+#### Completed OOPS concept from love babbar  [OOPS](https://www.youtube.com/watch?v=b3GccK5_KSQ)<br>####Solved questions from leetcode on topic arrays<br>[Rearrange array elements by sign](https://leetcode.com/submissions/detail/2007620172/)<BR>[Next Permutation](https://leetcode.com/submissions/detail/2007631205/) <br> Tried Next permutation a lot , atlast learned it from striver [link](https://www.youtube.com/watch?v=JDOXKqF60RQ)
