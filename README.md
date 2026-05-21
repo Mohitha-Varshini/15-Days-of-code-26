@@ -139,3 +139,14 @@ h)union of 2 sorted arrays(learned from striver)
 
 # DAY-9 : 20th MAY
 #### Revised binary search from the notes and solved problems from striver sheet (Binary search on 1D )<br>[Search X in sorted array](https://leetcode.com/problems/binary-search/description/)-  [SOLN](https://leetcode.com/submissions/detail/2008072025/)<BR>[Lower Bound](https://takeuforward.org/plus/dsa/problems/lower-bound-?source=strivers-a2z-dsa-track)-![alt text](<Screenshot 2026-05-20 162530.png>)<br>[Upper Bound](https://takeuforward.org/plus/dsa/problems/upper-bound?source=strivers-a2z-dsa-track)-![alt text](<Screenshot 2026-05-20 163026.png>)<br>[Search insert position](https://leetcode.com/problems/search-insert-position/description/)-  [soln](https://leetcode.com/submissions/detail/2008099901/)<br>[Floor and Ceil in Sorted Array]-![alt text](<Screenshot 2026-05-20 172546.png>)<br>[First and Last occurence](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)-  [soln](https://leetcode.com/submissions/detail/2008166967/)<br>[Count Occurrences in a Sorted Array](https://takeuforward.org/plus/dsa/problems/count-occurrences-in-a-sorted-array?source=strivers-a2z-dsa-track)-![alt text](ss2.jpeg) ![alt text](ss1.jpeg)<br>[Search in rotated sorted array-I](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)-  [soln](https://leetcode.com/submissions/detail/2008442408/)<br><br>CODECHEF CONTEST-Solved 3 problems and submitted prb-4 after the contest<br>[prb-1](https://www.codechef.com/viewsolution/1279917725)<br>[prb-2](https://www.codechef.com/viewsolution/1279945718)<br>[prb-3](https://www.codechef.com/viewsolution/1280008002)<br>[prb-4](https://www.codechef.com/viewsolution/1280046708)
+
+
+# DAY-10 : 21st MAY
+Done problems from the striver sheet on topic Binary search<br>
+[Search in rotated sorted array-I](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)  -  [soln](https://leetcode.com/submissions/detail/2009340292/)<br>
+[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)  -  [soln](https://leetcode.com/submissions/detail/2009339367/)<br>Tried and then learned optimal method of rotated array from striver<br>
+[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)   -  [soln](https://leetcode.com/submissions/detail/2009148800/)<br>
+[Find out how many times the array has been rotated] - Done from striver sheet,link not available ,done using binary search<br>
+[fIND peak element](https://leetcode.com/problems/find-peak-element/description/)  -  [soln](https://leetcode.com/submissions/detail/2009204658/)<br>
+[Find sqaure root of a number]-Learned how to do with binary search from striver,(prb link not found)
+
