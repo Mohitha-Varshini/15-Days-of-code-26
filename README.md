@@ -150,3 +150,13 @@ Done problems from the striver sheet on topic Binary search<br>
 [fIND peak element](https://leetcode.com/problems/find-peak-element/description/)  -  [soln](https://leetcode.com/submissions/detail/2009204658/)<br>
 [Find sqaure root of a number]-Learned how to do with binary search from striver,(prb link not found)
 
+
+# DAY-11 : 22nd MAY
+Tried problems on Binary search on Answers from striver sheet but couldnt make it.<br>
+[Largest Odd Number in a String](https://leetcode.com/problems/largest-odd-number-in-string/description/)   -  [SOLN](https://leetcode.com/submissions/detail/2010186597/)<br>
+[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)   -  [SOLN](https://leetcode.com/submissions/detail/2010203583/)<br>
+[Find row with maximum 1's](https://takeuforward.org/plus/dsa/problems/find-row-with-maximum-1's?source=strivers-a2z-dsa-track)   -   ![alt text](<Screenshot 2026-05-22 235516.png>)<br>
+Started CP31 problems<br>
+[Halloumi Boxes](https://codeforces.com/problemset/problem/1903/A)   -   [SOLN](https://codeforces.com/contest/1903/submission/375667869)<br>
+[Line Trip](https://codeforces.com/problemset/problem/1901/A)   -   [SOLN](https://codeforces.com/contest/1901/submission/375680227)
+
