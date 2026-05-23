@@ -160,3 +160,14 @@ Started CP31 problems<br>
 [Halloumi Boxes](https://codeforces.com/problemset/problem/1903/A)   -   [SOLN](https://codeforces.com/contest/1903/submission/375667869)<br>
 [Line Trip](https://codeforces.com/problemset/problem/1901/A)   -   [SOLN](https://codeforces.com/contest/1901/submission/375680227)
 
+
+# DAY-12 : 23rd MAY
+Done sums on Binary search on answers in Leetcode<br>
+[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/)   -    [SOLN](https://leetcode.com/submissions/detail/2010488900/)   - Learned this sum from  striver<br>
+[Min number of day to make m bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)  -  [SOLN](https://leetcode.com/submissions/detail/2010791351/)<BR>
+[Capacity to ship packages](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)  -  [SOLN](https://leetcode.com/submissions/detail/2010987230/)<br><br><br>
+
+#### CODECHEF PROBLEMS:
+[Game of Pooks](https://www.codechef.com/viewsolution/1280941058)<br>
+[Insert position](https://www.codechef.com/viewsolution/1281153416)<br>
+[Coins and triangles](https://www.codechef.com/viewsolution/1281168601)<br>
