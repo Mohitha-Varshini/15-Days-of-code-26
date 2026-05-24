@@ -170,3 +170,12 @@ Done sums on Binary search on answers in Leetcode<br>
 [Game of Pooks](https://www.codechef.com/viewsolution/1280941058)<br>
 [Insert position](https://www.codechef.com/viewsolution/1281153416)<br>
 [Coins and triangles](https://www.codechef.com/viewsolution/1281168601)<br>
+
+
+# DAY-13 : 24th MAY
+#### Done problems on Binary search on answers from striver sheet<br>
+[Find the smallest divisor](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/)   -   [SOLN](https://leetcode.com/submissions/detail/2011836100/)<BR>
+[Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/)   -   [SOLN](https://leetcode.com/submissions/detail/2011872731/)<BR>
+[Book Allocation Problem](https://takeuforward.org/plus/dsa/problems/book-allocation-problem?source=strivers-a2z-dsa-track) -  Learned this problem from striver  [LECTURE-18](https://www.youtube.com/watch?v=gYmWHvRHu-s&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=70)<BR>
+[Split array - largest sum](https://leetcode.com/problems/split-array-largest-sum/description/)    -    [SOLN](https://leetcode.com/submissions/detail/2011975054/)<BR>
+[Painter's Partition]   -  (This is from striver sheet,link not available)
