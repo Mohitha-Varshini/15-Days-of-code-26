@@ -179,3 +179,13 @@ Done sums on Binary search on answers in Leetcode<br>
 [Book Allocation Problem](https://takeuforward.org/plus/dsa/problems/book-allocation-problem?source=strivers-a2z-dsa-track) -  Learned this problem from striver  [LECTURE-18](https://www.youtube.com/watch?v=gYmWHvRHu-s&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=70)<BR>
 [Split array - largest sum](https://leetcode.com/problems/split-array-largest-sum/description/)    -    [SOLN](https://leetcode.com/submissions/detail/2011975054/)<BR>
 [Painter's Partition]   -  (This is from striver sheet,link not available)
+
+# DAY-14 : 25th MAY
+#### Learned DOM - [LINK](https://www.youtube.com/watch?v=7zcXPCt8Ck0)<BR>
+#### Solved few problems from codechef<br>
+[The Wave](https://www.codechef.com/viewsolution/1281801367)<br>
+[First and last occurrence of a given array](https://www.codechef.com/viewsolution/1281811022)<br>
+[Find minimum in a rotated sorted array](https://www.codechef.com/viewsolution/1281818664)<br>
+#### Tried a prb in leetcode<br>
+[Median of 2 sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)    -    [SOLN](https://leetcode.com/submissions/detail/2012939207/)   -   Solved using union of  two sorted arrays logic as i didnt get using binary search.I will try again.
+
