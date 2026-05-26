@@ -189,3 +189,15 @@ Done sums on Binary search on answers in Leetcode<br>
 #### Tried a prb in leetcode<br>
 [Median of 2 sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)    -    [SOLN](https://leetcode.com/submissions/detail/2012939207/)   -   Solved using union of  two sorted arrays logic as i didnt get using binary search.I will try again.
 
+
+# DAY-15 : 26th MAY
+#### Learned DOM - [LINK](https://www.youtube.com/watch?v=fXAGTOZ25H8&list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW&index=7)<BR>
+#### Solved problems from striver sheet on binary search<br>
+[Median of 2 sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)    -    [SOLN](https://leetcode.com/submissions/detail/2013756940/)   -   Learned the logic from striver  -  [LINK](https://www.youtube.com/watch?v=NTop3VTjmxk&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=66)<br>
+[Kth element of 2 sorted arrays]   -   ![alt text](<Screenshot 2026-05-26 221142.png>)<br>
+[Search in a 2D matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)   -  [SOLN](https://leetcode.com/submissions/detail/2013864253/)<BR>
+[Search in 2D matrix - II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)   -   [SOLN](https://leetcode.com/submissions/detail/2013869163/)<br>
+[Find Peak Element - II](https://leetcode.com/problems/find-a-peak-element-ii/description/)    -    Tried this sum but few test cases were not  passing,had to try again
+
+
+
