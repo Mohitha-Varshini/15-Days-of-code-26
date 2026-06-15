@@ -200,4 +200,13 @@ Done sums on Binary search on answers in Leetcode<br>
 [Find Peak Element - II](https://leetcode.com/problems/find-a-peak-element-ii/description/)    -    Tried this sum but few test cases were not  passing,had to try again
 
 
+## SECOND PHASE
+# Day-1 : 15 June
+#### Solved LEETCODE problems on the topic Linked  List from striver sheet<br>
+[Sort LL](https://leetcode.com/submissions/detail/2033477000/)   -   Learned from striver<br>
+[Sort a Linked List of 0's 1's and 2's]-(![alt text](<Screenshot 2026-06-15 233847.png>))<br>
+[Find the intersection point of Y LL](https://leetcode.com/submissions/detail/2033590515/)<br>
+[Add one to a number represented by LL]   -   learned from striver  -  [link](https://www.youtube.com/watch?v=aXQWhbvT3w0)<br>
+[Add Two Numbers](https://leetcode.com/submissions/detail/2034198064/)<br>
+
 
