@@ -209,4 +209,9 @@ Done sums on Binary search on answers in Leetcode<br>
 [Add one to a number represented by LL]   -   learned from striver  -  [link](https://www.youtube.com/watch?v=aXQWhbvT3w0)<br>
 [Add Two Numbers](https://leetcode.com/submissions/detail/2034198064/)<br>
 
+## Day-2 : 16 June
+[PRB-1](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)   -   [SOLN](https://leetcode.com/submissions/detail/2034808548/)<br>
+[PRB-2](https://leetcode.com/problems/rotate-list/description/)     -    [SOLN](https://leetcode.com/submissions/detail/2034854725/)<br>
+[PRB-3]  -  Tried a lot,implemented my idea but some keypoint is missing,later saw the vedio of striver and learned it -  [Link](https://www.youtube.com/watch?v=ykelywHJWLg)<br>(![alt text](<Screenshot 2026-06-16 223016.png>))<br>
+
 
