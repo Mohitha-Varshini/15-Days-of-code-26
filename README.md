@@ -215,3 +215,19 @@ Done sums on Binary search on answers in Leetcode<br>
 [PRB-3]  -  Tried a lot,implemented my idea but some keypoint is missing,later saw the vedio of striver and learned it -  [Link](https://www.youtube.com/watch?v=ykelywHJWLg)<br>(![alt text](<Screenshot 2026-06-16 223016.png>))<br>
 
 
+## Day-3 : 18 June
+
+#### On 17th june i coulnt do anything as i am sick,i just attempted CODECHEF  contest in the nyt.(Able to solve only 2 questions)<br>
+[PRB-1](https://www.codechef.com/viewsolution/1290424596)<br>
+[PRB-2](https://www.codechef.com/viewsolution/1290480399)<br>
+
+#### 18th JUNE  :  Solved problems on double linked list from striver sheet.<br>
+[PRB-1]   :    ![alt text](<Screenshot 2026-06-18 160912.png>)<br>
+[PRB-2]   :      ![alt text](<Screenshot 2026-06-18 163516.png>)<br>
+[PRB-3]   :     ![alt text](ss.jpeg) <br>
+
+
+
+
+
+
