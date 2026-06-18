@@ -226,6 +226,8 @@ Done sums on Binary search on answers in Leetcode<br>
 [PRB-2]   :      ![alt text](<Screenshot 2026-06-18 163516.png>)<br>
 [PRB-3]   :     ![alt text](ss.jpeg) <br>
 
+#### Watched vedio of striver on BIT MANIPULATION   :   [LINK](https://www.youtube.com/watch?v=qQd-ViW7bfk)<br>
+
 
 
 
