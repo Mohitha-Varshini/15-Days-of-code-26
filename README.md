@@ -229,6 +229,18 @@ Done sums on Binary search on answers in Leetcode<br>
 #### Watched vedio of striver on BIT MANIPULATION   :   [LINK](https://www.youtube.com/watch?v=qQd-ViW7bfk)<br>
 
 
+## Day-4 : 19th June
+
+#### Learned Implementation of stack and queue from striver<br>
+##### 1.Using arrays<br>
+##### 2.Using linked list<br>
+##### 3.Implementation of queue using stack (2-approaches)<br>
+##### 4.Implementaiom of stack using queue<br>
+
+#### [leetcode-1](https://leetcode.com/submissions/detail/2039080274/)<br>
+#### [leetcode-2](https://leetcode.com/submissions/detail/2039067511/)
+
+
 
 
 
