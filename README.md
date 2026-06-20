@@ -240,7 +240,15 @@ Done sums on Binary search on answers in Leetcode<br>
 #### [leetcode-1](https://leetcode.com/submissions/detail/2039080274/)<br>
 #### [leetcode-2](https://leetcode.com/submissions/detail/2039067511/)
 
+## DAY-5 : 20 June
 
+#### 1.Learned infix to postfix conversion   -  (![alt text](<Screenshot 2026-06-21 005658.png>))<br>
+#### 2.Learned infix to prefix conversion    -   (![alt text](<Screenshot 2026-06-21 005331.png>))<br>
+#### 3.Solved leetcode problems<br>
+[PRB-1](https://leetcode.com/submissions/detail/2039371613/)<br>
+[PRB-2](https://leetcode.com/submissions/detail/2040090378/)<br>
+[PRB-3](https://leetcode.com/submissions/detail/2040143085/)<br>
+[PRB-4](https://leetcode.com/submissions/detail/2040159055/)
 
 
 
