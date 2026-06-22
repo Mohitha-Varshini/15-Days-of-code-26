@@ -250,6 +250,18 @@ Done sums on Binary search on answers in Leetcode<br>
 [PRB-3](https://leetcode.com/submissions/detail/2040143085/)<br>
 [PRB-4](https://leetcode.com/submissions/detail/2040159055/)
 
+## DAY-6 : 22 June
+
+#### On 21 june i have only completed remaining 4 conversions from striver sheet as i need to go for an outing.<br>
+
+### 22 JUNE<br>
+1.Solved problems from striver sheet.<br>
+[PRB-1](https://leetcode.com/submissions/detail/2041631324/) - Done on my own , after submission learned optimal solution from striver playlist and applied on other problems.<br>
+[PRB-2](https://leetcode.com/submissions/detail/2041896126/)<BR>
+[PRB-3]-![alt text](<Screenshot 2026-06-22 172315.png>)<BR>
+[PRB-4]-![alt text](<Screenshot 2026-06-22 172250.png>)<BR>
+
+
 
 
 
