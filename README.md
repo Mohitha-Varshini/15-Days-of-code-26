@@ -272,6 +272,16 @@ Done sums on Binary search on answers in Leetcode<br>
 [1900A](https://codeforces.com/contest/1900/submission/379939307)<br>
 [1899A](https://codeforces.com/contest/1899/submission/379943609)<br>
 
+## Day-8 : 24 June
+Codeforces  :  [1896A](https://codeforces.com/contest/1896/submission/380049102)<br>
+               [1890A](https://codeforces.com/contest/1890/submission/380053413)<br>
+Leetcode    :  [prb-1](https://leetcode.com/submissions/detail/2044903838/)<br>
+
+Codechef contest  : Able to solve 3 sums in time limit and thinking of 4th one<br>
+[Teleport Home](https://www.codechef.com/viewsolution/1294594887)<br>
+[Passing Chain](https://www.codechef.com/viewsolution/1294614868)<br>
+[Carrot Collection](https://www.codechef.com/viewsolution/1294663048)<br>
+
 
 
 
