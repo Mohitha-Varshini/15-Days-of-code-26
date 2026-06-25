@@ -283,6 +283,20 @@ Codechef contest  : Able to solve 3 sums in time limit and thinking of 4th one<b
 [Carrot Collection](https://www.codechef.com/viewsolution/1294663048)<br>
 
 
+## Day-9 : 25 June
+#### Codeforces:<br>
+[1877A](https://codeforces.com/contest/1877/submission/380076731)<br>
+[1873C](https://codeforces.com/contest/1873/submission/380079212)<br>
+[1866A](https://codeforces.com/contest/1866/submission/380080492)<br>
+
+#### Leetcode:<br>
+[Remove Duplicates from Sorted List](https://leetcode.com/submissions/detail/2045424668/)<br>
+[Remove Duplicates from Sorted List II](https://leetcode.com/submissions/detail/2045469684/)<br>
+[Palindrome Number](https://leetcode.com/submissions/detail/2045925896/)<br>
+[Remove Element](https://leetcode.com/submissions/detail/2045936351/)<br>
+[Length of Last Word](https://leetcode.com/submissions/detail/2045946046/)<br>
+[Sliding Window Maximum](https://leetcode.com/submissions/detail/2046071863/)<br>
+
 
 
 
