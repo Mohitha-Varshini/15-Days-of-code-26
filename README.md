@@ -298,5 +298,15 @@ Codechef contest  : Able to solve 3 sums in time limit and thinking of 4th one<b
 [Sliding Window Maximum](https://leetcode.com/submissions/detail/2046071863/)<br>
 
 
+## Day-10 : 26 June
+Leetcode<br>
+[Generate Parentheses](https://leetcode.com/submissions/detail/2047113105/)<br>
+[Count Good Numbers](https://leetcode.com/submissions/detail/2047088436/)<br>
+[String to Integer (atoi)](https://leetcode.com/submissions/detail/2046790043/)<br>
+[Plus One](https://leetcode.com/submissions/detail/2046650556/)<br>
+[Find the Index of the First Occurrence in a String](https://leetcode.com/submissions/detail/2046592210/)<br>
+
+Codeforces  -   [Soln-1862B](https://codeforces.com/contest/1862/submission/380248760)<br>
+
 
 
