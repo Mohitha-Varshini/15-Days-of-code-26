@@ -309,4 +309,18 @@ Leetcode<br>
 Codeforces  -   [Soln-1862B](https://codeforces.com/contest/1862/submission/380248760)<br>
 
 
+## Day-11 : 27 June
+Leetcode<br>
+[PRB-1](https://leetcode.com/submissions/detail/2047179089/)<BR>
+[PRB-2](https://leetcode.com/submissions/detail/2047185105/)<BR>
+[PRB-3](https://leetcode.com/submissions/detail/2047187905/)<BR>
+[PRB-4](https://leetcode.com/submissions/detail/2047190844/)<BR>
+[PRB-5](https://leetcode.com/submissions/detail/2047193802/)<BR>
+[PRB-6](https://leetcode.com/submissions/detail/2047194947/)<BR>
+[PRB-7](https://leetcode.com/submissions/detail/2047196261/)<BR>
+[Stock span prb](https://leetcode.com/submissions/detail/2048153331/)<br>
+Learned LRU (Least Recently used) Cache logic or implementation using hashmaps and double linked list from striver.<br>
+
+Codeforces  -    [1805A](https://codeforces.com/contest/1805/submission/380375121)
+
 
