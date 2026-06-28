@@ -323,4 +323,7 @@ Learned LRU (Least Recently used) Cache logic or implementation using hashmaps a
 
 Codeforces  -    [1805A](https://codeforces.com/contest/1805/submission/380375121)
 
+## Day-12 : 28 June
+[Remove K Digits](https://leetcode.com/submissions/detail/2048808886/)  -   solved using stacks<br>
+[Longest Substring Without Repeating Characters](https://leetcode.com/submissions/detail/2049314949/)   -  learned how to use two pointers and sliding window algorithm.<br>
 
