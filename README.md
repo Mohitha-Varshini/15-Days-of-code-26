@@ -327,3 +327,15 @@ Codeforces  -    [1805A](https://codeforces.com/contest/1805/submission/38037512
 [Remove K Digits](https://leetcode.com/submissions/detail/2048808886/)  -   solved using stacks<br>
 [Longest Substring Without Repeating Characters](https://leetcode.com/submissions/detail/2049314949/)   -  learned how to use two pointers and sliding window algorithm.<br>
 
+
+## Day-13 : 29 June
+
+Solved Leetcode prbs  : 
+[Max Consecutive Ones III](https://leetcode.com/submissions/detail/2049712236/)<br>
+[Maximum Points You Can Obtain from Cards](https://leetcode.com/submissions/detail/2049985086/)<br>
+[Subarray Sum Equals K](https://leetcode.com/submissions/detail/2050119258/)<br>
+[Binary Subarrays With Sum](https://leetcode.com/submissions/detail/2050167965/)<br>
+
+Solved Codeforce prbs :
+[1783A](https://codeforces.com/contest/1783/submission/380623273)<BR>
+[1788A](https://codeforces.com/contest/1788/submission/380627144)<br>
