@@ -339,3 +339,17 @@ Solved Leetcode prbs  :
 Solved Codeforce prbs :
 [1783A](https://codeforces.com/contest/1783/submission/380623273)<BR>
 [1788A](https://codeforces.com/contest/1788/submission/380627144)<br>
+
+
+## Day-14 : 30 June
+
+Solved Leetcode prbs  :<br>
+[Count Number of Nice Subarrays](https://leetcode.com/submissions/detail/2050847756/)<br>
+[Number of Substrings Containing All Three Characters](https://leetcode.com/submissions/detail/2050948884/)<br>
+[Longest Repeating Character Replacement](https://leetcode.com/submissions/detail/2051251355/)<br>
+[Subarrays with K Different Integers](https://leetcode.com/submissions/detail/2051304549/)<br>
+
+Solved Codeforces prbs :
+[1806A](https://codeforces.com/contest/1806/submission/380790841)<br>
+[1829B](https://codeforces.com/contest/1829/submission/380799930)<br>
+[1845A](https://codeforces.com/contest/1845/submission/380832998)<br>
