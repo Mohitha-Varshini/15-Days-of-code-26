@@ -353,3 +353,15 @@ Solved Codeforces prbs :
 [1806A](https://codeforces.com/contest/1806/submission/380790841)<br>
 [1829B](https://codeforces.com/contest/1829/submission/380799930)<br>
 [1845A](https://codeforces.com/contest/1845/submission/380832998)<br>
+
+## Day-15 : 2nd July
+
+Leetcode<br>
+[Minimum Window Substring](https://leetcode.com/submissions/detail/2053387690/)<br>
+[Set Matrix Zeroes](https://leetcode.com/submissions/detail/2053407143/)<br>
+
+Codeforces<br>
+[1858A](https://codeforces.com/contest/1858/submission/381055896)<br>
+[1766A](https://codeforces.com/contest/1766/submission/381058925)<br>
+[1814A](https://codeforces.com/contest/1814/submission/381062587)<br>
+[1761A](https://codeforces.com/contest/1761/submission/381063407)<br>
